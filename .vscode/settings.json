@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "c",
+        "xiosbase": "c",
+        "*.inc": "c"
+    }
+}
