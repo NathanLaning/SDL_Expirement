@@ -55,4 +55,4 @@ dkms.conf
 CMakeFiles/
 doc
 lib
-CMakeCache.txt
+dist
